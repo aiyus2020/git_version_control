@@ -24,5 +24,6 @@
    ![merdged](./img/jerry%20merdged%20pull%20request.png)
 ## Current Status
 All updates have been successfully merged into the `main` branch, ensuring both the navigation bar and contact information are up to date.
+![github](./img/github%20dashboard.png)
 
-
+![terminal](./img/terminal.png)
